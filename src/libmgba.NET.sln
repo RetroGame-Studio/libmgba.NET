@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "libmgba.NET", "libmgba.NET\libmgba.NET.csproj", "{7AA55C41-B984-44C6-9F36-C23C0BEB7DEB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "libmgba.NET.ConsoleTest", "libmgba.NET.ConsoleTest\libmgba.NET.ConsoleTest.csproj", "{38F72422-B394-4F6D-ADD6-BB37439A1AE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AA55C41-B984-44C6-9F36-C23C0BEB7DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA55C41-B984-44C6-9F36-C23C0BEB7DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA55C41-B984-44C6-9F36-C23C0BEB7DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA55C41-B984-44C6-9F36-C23C0BEB7DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38F72422-B394-4F6D-ADD6-BB37439A1AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F72422-B394-4F6D-ADD6-BB37439A1AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F72422-B394-4F6D-ADD6-BB37439A1AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F72422-B394-4F6D-ADD6-BB37439A1AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EBC5ED8-CA8A-4536-8736-9AA2B27E380A}
+	EndGlobalSection
+EndGlobal

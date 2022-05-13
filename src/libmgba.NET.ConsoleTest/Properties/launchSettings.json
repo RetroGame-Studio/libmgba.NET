@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "liblibmgba.NET.ConsoleTest": {
+      "commandName": "Project",
+      "commandLineArgs": "$(ProjectDir)$(OutDir)varooom-3d.gba",
+      "nativeDebugging": false
+    }
+  }
+}
